@@ -112,7 +112,8 @@ Week3_React_Fundamentals_Daylist/
 │   ├── main.jsx
 │   └── styles.css
 ├── Output/
-│   └── README.txt
+│   └── Mobile_screenshot.png
+│   └── Desktop _screenshot.png
 ├── index.html
 ├── package.json
 └── README.md
