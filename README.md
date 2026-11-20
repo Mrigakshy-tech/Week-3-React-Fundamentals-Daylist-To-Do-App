@@ -113,7 +113,7 @@ Week3_React_Fundamentals_Daylist/
 │   └── styles.css
 ├── Output/
 │   └── Mobile_screenshot.png
-│   └── Desktop _screenshot.png
+│   └── Desktop_screenshot.png
 ├── index.html
 ├── package.json
 └── README.md
@@ -139,8 +139,8 @@ Week3_React_Fundamentals_Daylist/
 
 After running the application, actual browser screenshots are in the `Output/`:
 
-- `screenshot_desktop.png`
-- `screenshot_mobile.png`
+- `Desktop_screenshot.png`
+- `Mobile_screenshot.png`
 
 ## Storage note
 
